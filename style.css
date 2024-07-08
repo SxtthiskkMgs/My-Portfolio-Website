@@ -511,6 +511,13 @@ header.head .detail-icon div {
     animation: fadeIn 1s;
 }
 
+.coincount-images img{
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
 .projects h1 {
     font-size: xx-large;
     color: var(--highlight-color);
