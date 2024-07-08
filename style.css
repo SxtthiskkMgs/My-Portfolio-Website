@@ -541,10 +541,11 @@ header.head .detail-icon div {
 }
 
 .coincount-images {
-    width: 500px;
-    height: auto;
-    display: block;
-    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    overflow-x: auto;
+    padding: 10px;
 }
 
 .coincount-images img {
