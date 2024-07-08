@@ -548,6 +548,13 @@ header.head .detail-icon div {
     padding: 10px;
 }
 
+.coincountalt img{
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
 .coincount-images img {
     width: 500px;
     height: 500px;
